@@ -2,7 +2,7 @@
 ID-Based Blind Signature from Pairing  by Zangguo Zhang and Kwangjo Kim
 In this lib you have three main programms: manager, that SETUP and EXTRACT keys; user. that BLIND and then UNNBLINDING signature, that signer SIGN.
 
-	1) Function KeyGeneraton of the same class.
+	1) Function KeyGeneraton of the class manager.
 	
 	2) Setup of the same class.
 	
